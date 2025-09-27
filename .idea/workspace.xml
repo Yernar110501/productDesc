@@ -1,23 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="aa66878a-0d9f-4d6f-ab8f-483098c66e1d" name="Changes" comment="" />
+    <list default="true" id="4dccd854-3bc2-4dee-b328-94030fd37fd4" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/PythonProject.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 5
+  "associatedIndex": 6
 }]]></component>
-  <component name="ProjectId" id="33HX6Gk1XwnOwyobxDiRqWkT9yl" />
+  <component name="ProjectId" id="33HZpQKWmdhQTiDVxENrj7Uv6Rp" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true"
   }
 }]]></component>
@@ -30,11 +36,11 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="aa66878a-0d9f-4d6f-ab8f-483098c66e1d" name="Changes" comment="" />
-      <created>1758974793727</created>
+      <changelist id="4dccd854-3bc2-4dee-b328-94030fd37fd4" name="Changes" comment="" />
+      <created>1758976139525</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1758974793727</updated>
+      <updated>1758976139525</updated>
     </task>
     <servers />
   </component>
