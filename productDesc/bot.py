@@ -6,6 +6,7 @@ from aiogram.types import Message
 from aiogram.filters import Command
 from main import process_product
 from dotenv import load_dotenv
+from db import log_request
 
 load_dotenv()
 # Вставь сюда свой токен или используй переменные окружения
@@ -51,6 +52,15 @@ async def handle_photo(message: Message):
     desc, cat = process_product(img_name, model, name)
 
     await message.answer(f"✅ Описание: {desc}\n📦 Категория: {cat}")
+
+    await log_request(
+        user_id=message.from_user.id,
+        model=model,
+        name=name,
+        description=desc,
+        category=cat,
+        image_path=img_name
+    )
 
 # Запуск
 async def main():
